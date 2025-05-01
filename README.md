@@ -11,7 +11,16 @@
 - **Languages**: Python (Pandas, Scikit-learn, PyTorch, TensorFlow), SQL, Scala, MATLAB  
 - **Data Tools**: Tableau, Google Data Studio, Power BI, Jupyter, BigQuery, PostgreSQL  
 - **Platforms**: Google Cloud Platform, Docker, Spark, Kafka  
-- **Others**: Git, Doc2Vec, TF-IDF, Cosine Similarity  
+- **Others**: Git, Doc2Vec, TF-IDF, Cosine Similarity
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
