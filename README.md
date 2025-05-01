@@ -35,15 +35,16 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzeeeh&show_icons=true&theme=radical" alt="Enzi's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzeeeh&theme=radical" alt="GitHub Streak" width="48%">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzeeeh&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=enzeeeh&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=enzeeeh&theme=radical" width="48%" />
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzeeeh&layout=compact&theme=radical" width="48%" />
+
+</div>
 ---
 
 ### 💬 Let’s Connect!
