@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Enzi Muzakki
 
-🎓 **Computer Science Master’s Student** specializing in Data Science at Eötvös Loránd University, Hungary.  
+🎓 **Master of Computer Science** specializing in Data Science at Eötvös Loránd University, Hungary.  
 🧠 **Data Enthusiast** passionate about machine learning, NLP, and making complex data tell compelling stories.  
 💼 Previously worked with leading Indonesian tech companies like **Vidio**, **Agate**, and **Fabelio**, delivering actionable insights, building dashboards, and deploying scalable data solutions.  
 
